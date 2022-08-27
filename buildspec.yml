@@ -10,5 +10,5 @@ phases:
        - echo Build complete success
 artifacts:
    files:
-      - target/java-aws-exmple.jar
+      - target/string-ms.jar
    discard-paths: yes
