@@ -31,7 +31,6 @@ public class StringMSServiceTest {
 	@Test
 	public void testStringLength() {
 		int result = msService.stringLength("Ravisankar");
-		assertNotNull(result);
 		assertEquals(10, result);
 	}
 
